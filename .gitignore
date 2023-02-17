@@ -1,0 +1,4 @@
+env/
+rabbitmq/
+__pycache__/
+db.sqlite3
